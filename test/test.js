@@ -5,5 +5,5 @@ const room = require('../');
 app.load(player);
 app.load(room);
 app.run();
-// app.reset();
+app.reset();
 app.close();

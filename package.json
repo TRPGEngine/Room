@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/TRPGEngine/Room#readme",
   "dependencies": {
-    "debug": "^2.6.8"
+    "debug": "^2.6.8",
+    "uuid": "^3.1.0"
   }
 }
